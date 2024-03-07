@@ -65,3 +65,9 @@
 ![image](https://github.com/elonpatil/website/assets/134854789/453950a3-abcf-4c75-9bef-f286cd56f9db)
 ![image](https://github.com/elonpatil/website/assets/134854789/ca4f8edc-0fad-4fb0-911f-7bcd310e8602)
 
+## After GIt-Hub Commit: 
+![image](https://github.com/elonpatil/website/assets/134854789/4ceaca19-3b26-4df5-b1b8-0f4614c1d66f)
+![image](https://github.com/elonpatil/website/assets/134854789/00cf5000-4859-4c5f-9e02-3a7a73eda93b)
+![image](https://github.com/elonpatil/website/assets/134854789/e73b8591-527a-4740-bbc0-00058f58cd02)
+![image](https://github.com/elonpatil/website/assets/134854789/77887996-b09b-45b2-9210-e7e5a3d07612)
+![image](https://github.com/elonpatil/website/assets/134854789/3f154f64-f6e0-4158-9477-6e18118a0691)
